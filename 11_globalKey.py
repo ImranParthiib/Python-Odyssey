@@ -5,13 +5,19 @@
 
 def my_func():
     global x
+    global y
+    z = 'Nothing is unreachable'
     x ="Learning is Fun"
+    y='Learning is awesome'
     print(x)
+    print(y)
+    print(z)
 
 my_func()    
 
 
 print(x)
+print(y)
 
 
 """Also, use the global keyword if you want to change a global variable inside a function."""

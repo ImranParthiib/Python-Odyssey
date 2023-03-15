@@ -35,3 +35,8 @@ print(x + y)""" #this is an error
 x =5892
 y = "Python"
 print(x,y)
+
+a ='Sultan'
+b = 'Mehmed'
+c = 'Khan'
+print(a,b,c)

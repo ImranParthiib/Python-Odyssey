@@ -11,4 +11,6 @@ print(type(z))
 x ="Mehmed"
 # is the same as
 y='Sulatan'
-print(y+' '+x)
+
+z = "Khan"
+print(y+' '+x +" "+z)
