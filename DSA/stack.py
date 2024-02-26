@@ -1,5 +1,6 @@
 # Stack implementation in python
 # Creating a stack
+
 def create_stack():
     stack = []
     return stack
