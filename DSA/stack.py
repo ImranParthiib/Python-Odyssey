@@ -6,11 +6,9 @@ def create_stack():
     stack = []
     return stack
 
-
 # Creating an empty stack
 def check_empty(stack):
     return len(stack) == 0
-
 
 # Adding items into the stack
 def push(stack, item):
