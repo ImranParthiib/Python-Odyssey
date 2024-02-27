@@ -20,7 +20,8 @@ def pop(stack):
         return "stack is empty"
 
     return stack.pop()
-    
+
+
 stack = create_stack()
 push(stack, str(1))
 push(stack, str(2))
